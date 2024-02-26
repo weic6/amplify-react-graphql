@@ -2,7 +2,7 @@
 
 **Tutorial**: [Build a Full-Stack React Application](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-one/?e=gs2020&p=build-a-react-app-intro)
 
-link to the deployed web app: https://main.d1pupmcfhxal6h.amplifyapp.com/
+link to the deployed web app: found in the app in Amplify console
 
 **Demo**:
 ![notes_react_app](https://github.com/weigego/amplify-react-graphql/assets/72336341/9cdafb50-c34a-43b5-9a37-09512763f5ef)
