@@ -1,3 +1,12 @@
+# Project Information
+
+**Tutorial**: [Build a Full-Stack React Application](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-one/?e=gs2020&p=build-a-react-app-intro)
+
+**Notes**: As of today Feb 26, 2024, the published instructions for [ADD API AND DATABASE](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-four/) and [ADD STORAGE](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-five/) on the tutorials is outdated. I refer to the[ discussion in github](https://github.com/aws-amplify/amplify-js/issues/12635) to resolve this problem.
+
+**Demo**:
+tbc
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
