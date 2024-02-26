@@ -5,6 +5,7 @@
 **Notes**: As of today Feb 26, 2024, the published instructions on the tutorial for module [ADD API AND DATABASE](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-four/) and module [ADD STORAGE](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-five/) is outdated. I refer to the[ discussion in github](https://github.com/aws-amplify/amplify-js/issues/12635) to resolve this problem.
 
 **Demo**:
+link: https://main.d1pupmcfhxal6h.amplifyapp.com/
 
 ![notes_react_app](https://github.com/weigego/amplify-react-graphql/assets/72336341/9cdafb50-c34a-43b5-9a37-09512763f5ef)
 
